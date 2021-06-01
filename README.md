@@ -1,2 +1,2 @@
 # learn-react
-Primeira aplicação em React - aprendendo componentização
+Repositório criado para os primeiros estudos em ReactJS
